@@ -1,0 +1,10 @@
+# PhatcraftWiki .gitignore
+
+# Server environment
+.env
+
+# Server database
+*.sqlite
+
+# Server log
+*.log
